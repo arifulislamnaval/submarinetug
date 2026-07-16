@@ -1,7 +1,7 @@
 # 🚤 2 × Submarine Handling Tug Boat (SHT)
 
 <p align="center">
-  <img src="./sht.jpg" alt="Submarine Handling Tug Boat" width="100%">
+  <img src="./subtug.jpg" alt="Submarine Handling Tug Boat" width="100%">
 </p>
 
 <h2 align="center">2 × Submarine Handling Tug Boat (SHT)</h2>

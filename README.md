@@ -13,7 +13,7 @@ Naval Architect | Design Review | Design Management | Class Compliance
 
 <p align="center">
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Delivered-2018-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Delivered-2017-orange?style=for-the-badge"/>
 </p>
 
 ---
@@ -24,7 +24,6 @@ Successfully delivered **two Submarine Handling Tug Boats (SHTs)** for the **Ban
 
 | **Client** | Bangladesh Navy |
 |:-----------|:----------------|
-| **Project** | 2 × Submarine Handling Tug Boat (SHT) |
 | **Role** | Naval Architect |
 | **Length Overall** | **32.0 m** |
 | **Breadth** | **11.6 m** |
@@ -32,7 +31,7 @@ Successfully delivered **two Submarine Handling Tug Boats (SHTs)** for the **Ban
 | **Maximum Speed Ahead** | **≥12 knots** |
 | **Bollard Pull** | **60 t Ahead / 55 t Astern** |
 | **Classification** | **Bureau Veritas (BV)** |
-| **Delivery** | **2018** |
+| **Delivery** | **2017** |
 
 ---
 
